@@ -1,2 +1,0 @@
-SDL message: "No available video device"
-(SDL message: "No available video device")
